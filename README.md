@@ -48,7 +48,7 @@ const cards = [
 
 ### Directions
 - Add a `layout` folder in `src`
-- create a `navbar.jsx` component
+- create a `navbar.jsx` file
 - Render your navbar in `App.jsx`
 
 
