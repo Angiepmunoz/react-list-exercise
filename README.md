@@ -41,4 +41,16 @@ const cards = [
 **Do not worry about the underlined text in the screenshot**
 
 
+## Add the following navbar to your webpage:
+![image](/src/assets/navbar.png)
+
+**Don't worry about adding the icon for now**
+
+### Directions
+- Add a `layout` folder in `src`
+- create a `navbar.jsx` component
+- Render your navbar in `App.jsx`
+
+
+
 
